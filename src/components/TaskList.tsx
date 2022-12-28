@@ -25,7 +25,8 @@ export function TaskList() {
     if (newTask.title === '') {
       return alert('Please fill the input field');
     }
-    return setTasks([...tasks, newTask]);
+    setTasks([...tasks, newTask]);
+    setNewTaskTitle('');
   }
 
   function handleToggleTaskCompletion(id: number) {
