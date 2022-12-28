@@ -1,9 +1,7 @@
-Nesse desafio, devemos criar uma aplicação para treinar o que aprendeu até agora no ReactJS
+In this challenge, we have to create an app to show what we have learned with React JS.
 
-Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
-
-- Adicionar uma nova tarefa
-- Remover uma tarefa
-- Marcar e desmarcar uma tarefa como concluída
+- Add a new Task
+- Remove a Task 
+- Check as "completed" and change task state.
 
 🚀
